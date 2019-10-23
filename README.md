@@ -10,13 +10,13 @@ Basic demo website to practice basic html and css coding skills
 Screenshots
 ￼
 
-**Installation Instructions
+**Installation Instructions**
 * Clone down this repo
 
-**How to Run
+**How to Run**
 * In your terminal type hs-o.
 
-**Authors
+**Authors**
 Kenneth McEastland
 
 
