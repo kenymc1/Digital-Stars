@@ -8,7 +8,7 @@ Basic demo website to practice basic html and css coding skills
 the site wil be a basic 3 page site that is industry standard and with have full navigation and images
 
 Screenshots
-￼
+￼https://github.com/kenymc1/Digital-Stars/issues/1#issue-511710555
 
 **Installation Instructions**
 Clone down this repo
